@@ -1,10 +1,37 @@
-Projeto feito pelo Grupo <strong>GROSSILOG</strong>, do curso Tecnologia em logística 1º semestre.</br></br>
-Nosso projeto tem por objetivo analisar os dados de exportação e importação das cadeias produtivas da RMVALE assim trazer informações como principais produtos, cadeias produtivas, valor e outros dados.
-Por meio do método Scrum nos temos 4 entregas para a entrega final do projeto, marcada para os dias:</br></br>
-:green_circle:1º sprint - 03/04/2023</br>
-:white_circle: 2º sprint – 24/04/2023</br>
-:white_circle: 3º sprint – 15/05/2023</br>
-:white_circle: 4º sprint – 05/06/2023</br>
-</br>
-Integrantes do grupo:</br>
-Ana Julia, Isabela, Caliel Henrique, João Gabriel, Jonathan Martins, Jocemar, Paulo Roberto
+## GrossiLog
+
+<div align="left">
+  <img src="./logo.jpeg" height="300" width="300"/>
+</div>
+
+## Sumário
+
+
+## Entregas
+:green_circle: Sprint 1- 03/04/2023<br /> 
+:green_circle: Sprint 2- 24/04/2023<br /> 
+:white_circle: Sprint 3- 29/05/2023<br /> 
+:white_circle: Sprint 4- 12/06/2023
+
+## Objetivo
+Nosso projeto tem como objetivo analisar os dados de exportação e importação das cadeias produtivas da RMVALE assim trazer informações como principais produtos, cadeias produtivas, valores e outros dados, por meio do método scrum.
+
+## Tecnologias
+
+As seguintes ferramentas foram usadas na construção do projeto:
+
+:white_circle: Pacote Office (https://www.microsoft.com/pt-br/microsoft-365/free-office-online-for-the-web)<br /> 
+:white_circle: Jira Software (https://www.atlassian.com/br/software/jira)<br /> 
+:white_circle: Power BI (https://powerbi.microsoft.com/pt-br/)<br /> 
+:white_circle: Google Maps (https://www.google.com.br/maps)
+
+## Integrantes 
+
+<table align="left">
+  <tr>
+     <td align="center"><a href="https://github.com/Jhoww28"><img src="https://avatars.githubusercontent.com/u/128087120?v=4" width="100px;" alt=""/>        <br /><sub><b>Jonathan Martins<br>Master</b></sub></a><br />  
+     <td align="center"><a href="https://github.com/AnaJ240"><img src="https://avatars.githubusercontent.com/u/132076974?v=4" width="100px;" alt=""/>        <br /><sub><b>Ana julia<br>PO</b></sub></a><br />
+     <td align="center"><a href="https://github.com/joaogabgr"><img src="https://avatars.githubusercontent.com/u/104585766?v=4" width="100px;" alt=""/>        <br /><sub><b>João Gabriel<br>Team</b></sub></a><br />
+     <td align="center"><a href="https://github.com/Idasilv5"><img src="https://avatars.githubusercontent.com/u/112047189?v=4" width="100px;" alt=""/>        <br /><sub><b>Isabela Fernanda<br>Team</b></sub></a><br />
+     <td align="center"><a href="https://github.com/Calszika2001"><img src="https://avatars.githubusercontent.com/u/131174544?v=4" width="100px;" alt=""/>        <br /><sub><b>Caliel Henrique<br>Team</b></sub></a><br />     
+</table>
