@@ -4,8 +4,8 @@
   <img src="./logo.jpeg" height="300" width="300"/>
 </div>
 
-## Sumário
-
+## Projeto
+:white_circle:<a href="https://app.powerbi.com/groups/me/apps/52e21b27-8230-4568-8a9d-22bd16950b84/reports/7c6cf715-74f8-4fcd-b96e-4d20a242cf22/ReportSection">Dashboard atualizada
 
 ## Entregas
 :green_circle: Sprint 1- 03/04/2023<br /> 
@@ -34,4 +34,5 @@ As seguintes ferramentas foram usadas na construção do projeto:
      <td align="center"><a href="https://github.com/joaogabgr"><img src="https://avatars.githubusercontent.com/u/104585766?v=4" width="100px;" alt=""/>        <br /><sub><b>João Gabriel<br>Team</b></sub></a><br />
      <td align="center"><a href="https://github.com/Idasilv5"><img src="https://avatars.githubusercontent.com/u/112047189?v=4" width="100px;" alt=""/>        <br /><sub><b>Isabela Fernanda<br>Team</b></sub></a><br />
      <td align="center"><a href="https://github.com/Calszika2001"><img src="https://avatars.githubusercontent.com/u/131174544?v=4" width="100px;" alt=""/>        <br /><sub><b>Caliel Henrique<br>Team</b></sub></a><br />     
+     <td align="center"><a href="https://github.com/JJI1012"><img src="https://avatars.githubusercontent.com/u/130483310?v=4" width="100px;" alt=""/>        <br /><sub><b>Jocemar Carlos<br>Team</b></sub></a><br />     
 </table>
