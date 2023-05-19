@@ -1,11 +1,11 @@
 ## GrossiLog
 
 <div align="left">
-  <img src="./logo.jpeg" height="300" width="300"/>
+  <img src="./Logo.png" height="300" width="300"/>
 </div>
 
 ## Projeto
-:white_circle:<a href="https://app.powerbi.com/Redirect?action=OpenApp&appId=52e21b27-8230-4568-8a9d-22bd16950b84&ctid=cf72e2bd-7a2b-4783-bdeb-39d57b07f76f">Dashboard atualizada
+⚪ <a href="https://app.powerbi.com/Redirect?action=OpenApp&appId=52e21b27-8230-4568-8a9d-22bd16950b84&ctid=cf72e2bd-7a2b-4783-bdeb-39d57b07f76f"> Dashboard atualizada
 
 ## Entregas
 🟢 Sprint 1- 03/04/2023<br /> 
@@ -25,6 +25,8 @@ As seguintes ferramentas foram usadas na construção do projeto:
 ⚪ Power BI (https://powerbi.microsoft.com/pt-br/)<br /> 
 ⚪ Google Maps (https://www.google.com.br/maps)
 
+## Documentação
+  
 ## Integrantes 
 
 <table align="left">
