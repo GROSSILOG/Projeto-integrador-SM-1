@@ -1,7 +1,7 @@
 ## GrossiLog
 
 <div align="left">
-  <img src="./Logo.png" height="300" width="300"/>
+  <img src="./Logopng.png" height="300" width="300"/>
 </div>
 
 ## Projeto
