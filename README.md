@@ -14,7 +14,7 @@
 ⚪ Sprint 4- 12/06/2023
 
 ## Objetivo
-Nosso projeto tem como objetivo analisar a cadeia produtiva de bebidas da RMVALE, utilizamos a empresa Heineken para base de pesquisa, com isso iremos trazer informações de valores, do porque acontecem picos e declínio de exportação e importação dos produtos.
+Nosso objetivo na terceira sprint foi buscar dados específicos de uma cadeia produtiva, utilizando as informações coletadas nas sprints anteriores. Optamos por analisar a cadeia produtiva da cerveja e escolhemos a Heineken como base para nossas pesquisas. Essa escolha nos permitiu analisar a cadeia produtiva de forma mais precisa e detalhada. Com base nesses dados, pudemos realizar uma análise SWOT, identificando os pontos fortes, pontos fracos, oportunidades e ameaças relacionados à cadeia produtiva da Heineken. Além disso, analisamos os eventos de importação e exportação ocorridos durante o período de 2021/2022, para obter uma visão abrangente dos acontecimentos nesse período.
 
 ## Tecnologias
 
@@ -23,6 +23,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
 ⚪ Pacote Office (https://www.microsoft.com/pt-br/microsoft-365/free-office-online-for-the-web)<br /> 
 ⚪ Jira Software (https://www.atlassian.com/br/software/jira)<br /> 
 ⚪ Power BI (https://powerbi.microsoft.com/pt-br/)<br /> 
+⚪ Canva (https://www.canva.com/pt_br/)<br /> 
 
 ## Processo
   
