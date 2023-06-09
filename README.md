@@ -25,7 +25,28 @@ As seguintes ferramentas foram usadas na construção do projeto:
 ⚪ Power BI (https://powerbi.microsoft.com/pt-br/)<br /> 
 ⚪ Canva (https://www.canva.com/pt_br/)<br /> 
 
-## Documentação
+## Processo
+  
+Para criar a dashboard, utilizamos os principais insumos importados para a produção de cerveja, que incluem malte, leveduras e cevada. O insumo de maior volume é o malte. Ao focarmos na busca dentro do Porto de São Sebastião, onde ocorre a maior chegada de materiais, constatamos que apenas o malte é importado. Notamos que, durante o período de abril a agosto, não houve importações. Isso pode ser atribuído à sazonalidade do produto, uma vez que os meses de início e fim de ano são períodos de maior consumo. Portanto, o Brasil busca insumos em outros países para suprir a demanda.
+
+No caso das exportações, utilizamos o produto "cerveja de malte" como objeto de pesquisa. Observamos que o Paraguai possui o maior volume de exportação de cerveja em comparação com outros países. Em 2021, o gráfico mostra uma linha reta devido à ausência de exportações de abril a novembro na cidade de Jambeiro. Esse padrão está relacionado ao aumento do consumo no início e no final do ano, devido a festividades. Além disso, é importante mencionar que os efeitos da pandemia foram significativos, especialmente em 2020/2021, período em que atingiu seu auge. Em contrapartida, em 2022, com o retorno dos eventos, observamos um crescimento considerável nos valores, que praticamente dobraram em relação a 2021.
+  
+<div align="left">
+  <img src="./Projeto/Imagens/1Dash.png" height="300" width="533"/>
+</div>
+<div align="left">
+  <img src="./Projeto/Imagens/2Dash.png" height="300" width="533"/>
+</div>
+  
+Na terceira tela, é apresentado o processo de criação da cerveja, mostrando como ocorre dentro da indústria até a obtenção do produto final. Nessa etapa, são detalhadas as diferentes etapas e atividades envolvidas
+<div align="left">
+  <img src="./Projeto/Imagens/3Dash.png" height="300" width="533"/>
+</div>
+  
+Na quarta tela, é apresentada a análise SWOT da cadeia produtiva. Para obter mais detalhes, recomenda-se consultar o <a href="https://github.com/GROSSILOG/Projeto-integrador-SM-1/blob/4-Sprint/Projeto/Analise%20swot.pdf">documento</a>, onde serão fornecidas informações mais específicas sobre as forças, fraquezas, oportunidades e ameaças identificadas no contexto da cadeia produtiva da cerveja.
+<div align="left">
+  <img src="./Projeto/Imagens/4Dash.png" height="300" width="533"/>
+</div>
   
 ## Integrantes 
 
