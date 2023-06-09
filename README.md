@@ -14,7 +14,12 @@
 🟢 Sprint 4- 12/06/2023
 
 ## Objetivo
-Nosso projeto tem como objetivo analisar a cadeia produtiva de bebidas da RMVALE, utilizamos a empresa Heineken para base de pesquisa, com isso iremos trazer informações de valores, do porque acontecem picos e declínio de exportação e importação dos produtos.
+
+Nosso foco na quarta sprint foi finalizar os últimos detalhes para a conclusão do projeto. Nesse estágio, nos dedicamos a aprimorar o relatório, adicionando mais informações e detalhes relevantes. Um dos aspectos importantes foi incluir o processo de criação da cerveja, apresentando todas as etapas envolvidas na produção.
+
+Além disso, revisamos e aprofundamos nossa análise SWOT da cadeia produtiva da cerveja, levando em consideração os dados coletados anteriormente. Nessa etapa, optamos por não focar exclusivamente na Heineken, mas sim realizar uma análise mais abrangente e cuidadosa dos dados disponíveis, visando fornecer uma visão completa e precisa para o cliente e para a feira.
+
+Com essas melhorias e ajustes finais, buscamos tornar o relatório mais robusto e completo, assegurando que todas as informações relevantes sejam apresentadas de maneira clara e coerente.
 
 ## Tecnologias
 
