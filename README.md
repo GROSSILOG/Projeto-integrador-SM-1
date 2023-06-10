@@ -51,6 +51,9 @@ Na terceira tela, é apresentado o processo de criação da cerveja, mostrando c
 Na quarta tela, é apresentada a análise SWOT da cadeia produtiva. Para obter mais detalhes, recomenda-se consultar o <a href="https://github.com/GROSSILOG/Projeto-integrador-SM-1/blob/4-Sprint/Documentos/Analise%20swot.pdf">documento</a>, onde serão fornecidas informações mais específicas sobre as forças, fraquezas, oportunidades e ameaças identificadas no contexto da cadeia produtiva da cerveja.
 <div align="left">
   <img src="./Projeto/Imagens/4Dash.png" height="300" width="533"/>
+
+  <a href="https://github.com/GROSSILOG/Projeto-integrador-SM-1/blob/4-Sprint/Documentos/Tabela-5W2H.xlsx">5W2H</a>
+
 </div>
   
 ## Integrantes 
