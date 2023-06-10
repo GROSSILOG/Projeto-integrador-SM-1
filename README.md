@@ -15,7 +15,7 @@
 
 ## Objetivo
 
-Nosso foco na quarta sprint foi finalizar os últimos detalhes para a conclusão do projeto. Nesse estágio, nos dedicamos a aprimorar o <a href="https://github.com/GROSSILOG/Projeto-integrador-SM-1/blob/4-Sprint/Projeto/Relat%C3%B3rio.pdf">relatório</a>, adicionando mais informações e detalhes relevantes. Um dos aspectos importantes foi incluir o processo de criação da cerveja, apresentando todas as etapas envolvidas na produção.
+Nosso foco na quarta sprint foi finalizar os últimos detalhes para a conclusão do projeto. Nesse estágio, nos dedicamos a aprimorar o <a href="https://github.com/GROSSILOG/Projeto-integrador-SM-1/blob/4-Sprint/Documentos/Relat%C3%B3rio.pdf">relatório</a>, adicionando mais informações e detalhes relevantes. Um dos aspectos importantes foi incluir o processo de criação da cerveja, apresentando todas as etapas envolvidas na produção.
 
 Além disso, revisamos e aprofundamos nossa análise SWOT da cadeia produtiva da cerveja, levando em consideração os dados coletados anteriormente. Nessa etapa, optamos por não focar exclusivamente na Heineken, mas sim realizar uma análise mais abrangente e cuidadosa dos dados disponíveis, visando fornecer uma visão completa e precisa para o cliente e para a feira.
 
@@ -48,7 +48,7 @@ Na terceira tela, é apresentado o processo de criação da cerveja, mostrando c
   <img src="./Projeto/Imagens/3Dash.png" height="300" width="533"/>
 </div>
   
-Na quarta tela, é apresentada a análise SWOT da cadeia produtiva. Para obter mais detalhes, recomenda-se consultar o <a href="https://github.com/GROSSILOG/Projeto-integrador-SM-1/blob/4-Sprint/Projeto/Analise%20swot.pdf">documento</a>, onde serão fornecidas informações mais específicas sobre as forças, fraquezas, oportunidades e ameaças identificadas no contexto da cadeia produtiva da cerveja.
+Na quarta tela, é apresentada a análise SWOT da cadeia produtiva. Para obter mais detalhes, recomenda-se consultar o <a href="https://github.com/GROSSILOG/Projeto-integrador-SM-1/blob/4-Sprint/Documentos/Analise%20swot.pdf">documento</a>, onde serão fornecidas informações mais específicas sobre as forças, fraquezas, oportunidades e ameaças identificadas no contexto da cadeia produtiva da cerveja.
 <div align="left">
   <img src="./Projeto/Imagens/4Dash.png" height="300" width="533"/>
 </div>
