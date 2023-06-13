@@ -14,7 +14,7 @@
 ⚪ Sprint 4- 12/06/2023
 
 ## Objetivo
-Nosso objetivo nas primeiras sprints foi adquirir habilidades na manipulação dos dados importados do site ComexStat. Coletamos todas as informações de valores de importação e exportação das principais cidades da RMVALE (Região Metropolitana do Vale do Paraíba) a fim de obter uma compreensão abrangente das transações comerciais na região. Com base nessa compreensão inicial, direcionamos nossos esforços nas sprints seguintes para explorar e analisar mais detalhadamente uma cadeia produtiva específica, com o objetivo de trazer dados mais aprofundados e insights relevantes nessa área específica.
+Nosso objetivo nas primeiras sprints foi aprender o conceito de cadeia produtiva e adquirir habilidades na manipulação dos dados importados do site ComexStat. Coletamos todas as informações de valores de importação e exportação das principais cidades da RMVALE (Região Metropolitana do Vale do Paraíba) a fim de obter uma compreensão abrangente das transações comerciais na região. Com base nessa compreensão inicial, direcionamos nossos esforços nas sprints seguintes para explorar e analisar mais detalhadamente uma cadeia produtiva específica, com o objetivo de trazer dados mais aprofundados e insights relevantes nessa área específica.
 
 ## Tecnologias
 
