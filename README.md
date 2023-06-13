@@ -11,7 +11,9 @@
 🟢 Sprint 1- 03/04/2023<br /> 
 🟢 Sprint 2- 24/04/2023<br /> 
 🟢 Sprint 3- 01/06/2023<br /> 
-🟢 Sprint 4- 14/06/2023
+🟢 Sprint 4- 14/06/2023<br /> 
+  
+✅ Projeto finalizado
 
 ## Objetivo
 
