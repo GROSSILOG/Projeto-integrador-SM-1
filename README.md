@@ -21,7 +21,7 @@ Nosso projeto foi desenvolvido com o objetivo de compreender o conceito de cadei
   
 utilizando os dados de importação e exportação obtidos do site <a href="http://comexstat.mdic.gov.br/pt/home">ComexStat<a/>, com base nesses dados, criamos uma dashboard que possibilita a identificação de necessidades, demanda, sazonalidade e valor agregado da cadeia produtiva. Além disso, realizamos uma <a href="https://github.com/GROSSILOG/Projeto-integrador-SM-1/blob/Main/Documentos/Analise%20swot.pdf">análise Swot<a/> atualizada para identificar os pontos fortes e fracos.
 
-Ao utilizar nosso produto, o cliente será capaz de identificar momentos de oportunidades, riscos, ameaças e períodos de maior competitividade no mercado. Dessa forma, ele poderá ingressar no mercado com um entendimento abrangente do cenário atual.
+Ao utilizar nosso produto, o cliente será capaz de identificar momentos de oportunidades, riscos, ameaças e períodos de maior competitividade. Dessa forma, ele poderá ingressar no mercado com um entendimento abrangente do cenário atual.
 
 ## Tecnologias
 
